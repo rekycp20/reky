@@ -1,0 +1,2 @@
+# reky
+Ini sya
